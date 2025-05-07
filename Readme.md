@@ -14,6 +14,7 @@
 
 <img src="./web_scraper.png" alt="drawing" width="400"/>
 
-P.S. Coding methodology inspired by the KISS (Keep It Simple, Stupid) principle.
+<img src="./scraper1.png" alt="drawing" width="400"/>
 
-> “Just Gork It Silly!”
+<img src="./scraper2.png" alt="drawing" width="400"/>
+
