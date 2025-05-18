@@ -1,20 +1,5 @@
-### How to Run:
+## Web Scraper
 
+This project is documented on DeepWiki.
 
-- Run `cargo run` to scrape titles from the listed URLs.
-- Modify the urls vector to include other websites.
-
-### Key Features:
-
-- Uses tokio for concurrent HTTP requests.
-- Parses HTML with scraper to extract `<h1>`, `<h2>`, and `<h3>` titles.
-- Handles errors gracefully for failed requests.
-
-**Note**: Some websites may block scrapers or require headers. You may need to add user-agent headers to reqwest for production use.
-
-<img src="./web_scraper.png" alt="drawing" width="400"/>
-
-<img src="./scraper1.png" alt="drawing" width="400"/>
-
-<img src="./scraper2.png" alt="drawing" width="400"/>
-
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/anpa6841/rust-web-scraper)
